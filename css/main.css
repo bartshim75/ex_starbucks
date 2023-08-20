@@ -47,9 +47,6 @@
 }
 
 /* NOTICE */
-.notice {
-
-}
 .notice .notice-line {
   position: relative;
 }
@@ -338,9 +335,6 @@
 .season-product .text-group .description {
   margin-bottom: 15px;
 }
-.season-product .text-group .more {
-
-}
 
 /* RESERVE COFFEE */
 .reserve-coffee {
@@ -363,9 +357,6 @@
   position: absolute;
   top: 0;
   right: 0;
-}
-.reserve-coffee .text-group .description {
-
 }
 
 /* PICK YOUR FAVORITE */
